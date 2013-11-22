@@ -1,0 +1,24 @@
+Please follow up these step:
+
+1.cirrus_Employees_dev_(add,edit,delete).jmx
+2.Cirrus_Location_dev_(add,edit,delete).jmx
+3.Cirrus_Assets_dev_(add,edit,delete).jmx
+4.Assignment & Transfer Assets_dev.jmx
+
+
+
+	
+	The above mentioned files are used to perform the operations ie.., Add, Edit and Delete, to executes scripts individually.
+
+
+
+cirrus_DevServer_AllTransactions.jmx
+
+	
+	1. Above file contains all the four scenerios(i.e.., Employees, Locations, Assests and Assignment&Transfers) in a single thread group.
+
+	
+
+
+2. Tenant data files are also included in the same folder to execute the all the Scenarios (While executing the scripts, We need to give the csv file path in all scripts).
+ 
